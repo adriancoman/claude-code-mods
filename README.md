@@ -15,7 +15,7 @@ Small mods for [Claude Code](https://claude.com/claude-code), written as plugins
 Clone the repo:
 
 ```sh
-git clone <this repo> ~/.claude/mods
+git clone https://github.com/adriancoman/claude-code-mods.git ~/.claude/mods
 ```
 
 Then list the mods you want in the `env` block of `~/.claude/settings.json`, separated by `:` (`;` on Windows):
