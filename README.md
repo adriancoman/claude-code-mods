@@ -1,12 +1,24 @@
-# claude-mods
+# claude-code-mods
 
 Small mods for [Claude Code](https://claude.com/claude-code), written as plugins of function hooks.
 
-| Mod | What it does |
-| --- | --- |
-| [`prompt-highlight`](prompt-highlight) | Draws your prompts on a colored background so they stand out from the answers. |
-| [`usage-status`](usage-status) | Shows the 5-hour and weekly usage limits, with reset times, in the status line. |
-| [`collapse-answers`](collapse-answers) | Adds a **▾ Collapse** button under each answer that hides it, leaving only your question. |
+## prompt-highlight
+
+Draws your prompts on a colored background so they stand out from the answers.
+
+![prompt-highlight](assets/mod_highlight.png)
+
+## usage-status
+
+Shows the 5-hour and weekly usage limits, with reset times, in the status line.
+
+![usage-status](assets/mod_usage.png)
+
+## collapse-answers
+
+Adds a **▾ Collapse** button under each answer that hides it, leaving only your question.
+
+![collapse-answers](assets/mod_collapse.gif)
 
 > Built against Claude Code 2.1.287. The function-hooks API is early access and may change between releases.
 
