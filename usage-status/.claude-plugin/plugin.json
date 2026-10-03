@@ -1,0 +1,9 @@
+{
+  "name": "usage-status",
+  "version": "0.1.0",
+  "description": "Shows the 5-hour and weekly usage limits in the status line.",
+  "author": {
+    "name": "Adrian Coman"
+  },
+  "license": "MIT"
+}

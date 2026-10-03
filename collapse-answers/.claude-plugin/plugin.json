@@ -1,0 +1,10 @@
+{
+  "name": "collapse-answers",
+  "version": "0.1.0",
+  "description": "Adds a button under each answer that collapses it, leaving only your question.",
+  "author": {
+    "name": "Adrian Coman"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
